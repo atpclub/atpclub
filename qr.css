@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: "Apron";
+    src: url("Apron.woff2");
+}
+
+img.qr{
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    display: flex;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px -2px black;
+    margin-bottom: 15px;
+}
+
+div.top{
+    background-color: ghostwhite;
+    box-shadow: 0px 0px 5px -2px black;
+    border-radius: 5px;
+    width: 90%;
+    height: 50px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+p.texto_qr{
+    padding-top: 5px;
+    font-size: 30px;
+    font-family: "Apron";
+    text-align: center;
+}
+
+div.bot{
+text-align: center;
+margin-bottom: 10px;
+}
+
+i.icon {
+    font-size: 25px;
+}
+
+a {
+    color: black;
+}

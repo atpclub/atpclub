@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Apron Soft Narrow';
+    src: local('Apron Soft Narrow Bold'), local('Apron-Soft-Narrow-Bold'),
+        url('ApronSoftNr-Bd.woff2') format('woff2'),
+        url('ApronSoftNr-Bd.woff') format('woff'),
+        url('ApronSoftNr-Bd.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
